@@ -1,0 +1,7 @@
+D:\Desktop\MyProjects\for someone\C#\diary\diary\bin\Debug\diary.exe.config
+D:\Desktop\MyProjects\for someone\C#\diary\diary\bin\Debug\diary.exe
+D:\Desktop\MyProjects\for someone\C#\diary\diary\bin\Debug\diary.pdb
+D:\Desktop\MyProjects\for someone\C#\diary\diary\obj\Debug\diary.csproj.AssemblyReference.cache
+D:\Desktop\MyProjects\for someone\C#\diary\diary\obj\Debug\diary.csproj.CoreCompileInputs.cache
+D:\Desktop\MyProjects\for someone\C#\diary\diary\obj\Debug\diary.exe
+D:\Desktop\MyProjects\for someone\C#\diary\diary\obj\Debug\diary.pdb
