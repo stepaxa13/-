@@ -1,0 +1,7 @@
+D:\Desktop\College\Programming\Csharp\Cakes\Cakes\bin\Debug\Cakes.exe.config
+D:\Desktop\College\Programming\Csharp\Cakes\Cakes\bin\Debug\Cakes.exe
+D:\Desktop\College\Programming\Csharp\Cakes\Cakes\bin\Debug\Cakes.pdb
+D:\Desktop\College\Programming\Csharp\Cakes\Cakes\obj\Debug\Cakes.csproj.AssemblyReference.cache
+D:\Desktop\College\Programming\Csharp\Cakes\Cakes\obj\Debug\Cakes.csproj.CoreCompileInputs.cache
+D:\Desktop\College\Programming\Csharp\Cakes\Cakes\obj\Debug\Cakes.exe
+D:\Desktop\College\Programming\Csharp\Cakes\Cakes\obj\Debug\Cakes.pdb
